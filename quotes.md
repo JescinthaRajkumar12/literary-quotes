@@ -34,3 +34,8 @@ They have their exits and their entrances,
 And one man in his time plays many parts."
 
 ---
+## 1984 by George Orwell
+
+> "Who controls the past controls the future: who controls the present controls the past."
+
+---
