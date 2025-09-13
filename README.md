@@ -6,7 +6,7 @@ A collection of my favorite quotes from literature.
 
 ## About This Collection
 
-As a former literature student, I've always been captivated by the power of a well-crafted sentence. Words can build worlds, distill complex emotions, and preserve moments in time. This repository is my personal hoard of those powerful words—a digital commonplace book where I collect the lines from novels, plays, and poems that have resonated with me.
+As a former literature student, I've always been captivated by the power of a well-crafted sentence. Words can build worlds, distill complex emotions, and preserve moments in time. This repository is my personal hoard of those powerful words, a digital commonplace book where I collect the lines from novels, plays, and poems that have resonated with me.
 
 This project is also a practical exercise in my journey to learn software development. Each quote added is another step in mastering the Git workflow, from my local machine in **VS Code** to the world via **GitHub**.
 
